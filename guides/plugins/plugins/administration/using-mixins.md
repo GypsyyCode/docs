@@ -31,7 +31,7 @@ Component.register('swag-basic-example', {
 
     methods: {
         greet: function () {
-            this.createNotificationSuccess({ title: 'Greetings' })
+            this.createNotificationSuccess({ title: 'Greetings', message: 'From Mixin' })
         }
     }
 });
