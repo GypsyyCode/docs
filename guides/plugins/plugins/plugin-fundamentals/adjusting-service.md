@@ -1,8 +1,8 @@
-# Adjusting a Service
+# Decorating a Service
 
 ## Overview
 
-In this guide you'll learn how to adjust a service. You can read more about service decoration in the [Symfony documentation](https://symfony.com/doc/current/service_container/service_decoration.html).
+In this guide you'll learn how to decorate a service to adjust it's functionality. You can read more about service decoration in the [Symfony documentation](https://symfony.com/doc/current/service_container/service_decoration.html).
 
 ## Prerequisites
 
